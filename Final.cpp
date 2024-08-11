@@ -4,7 +4,7 @@
 #include <ext/pb_ds/assoc_container.hpp>
 #include <ext/pb_ds/tree_policy.hpp>
 #ifndef ONLINE_JUDGE
-#include "proj.cpp"
+#include "debug.cpp"
 #else
 #define debug(...)
 #define debugArr(...)
