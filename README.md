@@ -1,6 +1,7 @@
 Final.cpp contains the current template i am using.
 
 debug.cpp is the debugging file. Make sure to save the proj/debug file in the same folder as your codes, and include the below piece of code in your template. (if you have saved debug.cpp or some other name then change the name in the below code).
+
 #ifndef ONLINE_JUDGE
 #include "proj.cpp"
 #else
