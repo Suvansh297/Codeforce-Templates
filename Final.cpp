@@ -124,7 +124,7 @@ signed main()
   long long int t;
   cin>>t;
   // Fact();
-  for (ll test_case = 1; test_case<=t; ++test_case)   {debug(test_case);
+  for (ll test_case = 1; test_case<=t; ++test_case)   {cerr<< '\n'; debug(test_case);
 //--------------S-U-V-A-N-S-H-2-9-7---------------------------------------------//
  
 
@@ -135,4 +135,4 @@ signed main()
 
 
 //-------------------S-U-V-A-N-S-H-2-9-7----------------------------------------//
-cerr<< '\n';}}
+}}
