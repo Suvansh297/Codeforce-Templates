@@ -1,0 +1,20 @@
+{
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"theme": "Adaptive.sublime-theme",
+	"font_size": 17,
+	"highlight_line": true,
+	"caret_style": "phase",
+	"line_padding_bottom": 2,
+	"bold_folder_labels": true,
+	"draw_minimap_border": true,
+	//"match_brackets_angle": true,
+
+
+
+	
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"index_files": true,
+}
